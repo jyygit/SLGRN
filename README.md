@@ -7,3 +7,6 @@
 ### SL samples in A549 cell line: ./code/label/
 ### Gene features in A549 cell line: ./code/feature/
 ## Code
+### Model of SLGRN: model.py
+### Model training: train_SL.py
+### Data process: data_process.py
